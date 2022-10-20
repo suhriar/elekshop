@@ -1,6 +1,6 @@
 <?php
 
-	define("BASE_URL", "http://localhost/elekshop/");
+	define("BASE_URL", "http://localhost:8080/elekshop/");
 	
 	$arrayStatusPesanan[0] = "Menunggu Pembayaran";
 	$arrayStatusPesanan[1] = "Pembayaran Sedang Di Validasi";
